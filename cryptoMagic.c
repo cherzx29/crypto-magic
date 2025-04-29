@@ -1,6 +1,6 @@
 /*
 Title: cryptoMagic Encryption/Decryption
-Author: Hamza Khan and Cherith Boya
+Author: Cherith Boya and Hamza Khan
 Summary: This program allows the user to encrypt or decrypt a file based on their choice. 
 The user can specify whether they want to encrypt or decrypt a file by using the flags -E (for encryption) or -D (for decryption). 
 
